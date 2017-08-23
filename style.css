@@ -1,0 +1,26 @@
+             #shape{
+
+                    width: 200px;
+                    height: 200px;
+                    background-color: red;
+                    display: none;
+                    position: relative;                    
+            }
+            #bold{
+                font-weight: bold;
+                
+            }
+
+            body{
+
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+            #desc{
+
+                color: orange;
+                
+            }
+            #timetaken{
+
+                color: blueviolet;
+            }
